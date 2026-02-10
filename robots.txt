@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xjin.github.io/sitemap.xml
+Sitemap: https://dmsjin.github.io/sitemap.xml
